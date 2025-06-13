@@ -53,3 +53,4 @@ Prompt:
 ![image](https://github.com/user-attachments/assets/37dc5c21-c992-4941-ba82-5ba993c38e42)
 
 
+src : https://zerodha.com/z-connect/featured/connect-your-zerodha-account-to-ai-assistants-with-kite-mcp
