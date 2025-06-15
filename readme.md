@@ -1,4 +1,14 @@
-![image](https://github.com/user-attachments/assets/4184fbee-eaca-4af3-9424-91d5d49d3390)
+![image](https://github.com/user-attachments/assets/ffa5a161-6668-4368-b731-db14f6f4ed2d)![image](https://github.com/user-attachments/assets/4184fbee-eaca-4af3-9424-91d5d49d3390)
+
+**Model Context Protocol (MCP)** provides a standardized way for AI models to discover and interact with external tools, applications, and data sources. When you enter a chat prompt to a language model with agent mode in VS Code, the model can invoke various tools to perform tasks like file operations, accessing databases, or calling APIs in response to your request.
+
+MCP follows a client-server architecture:
+
+(*) MCP clients (like VS Code) connect to MCP servers and request actions on behalf of the AI model
+(*) MCP servers provide one or more tools that expose specific functionalities through a well-defined interface
+(*) The Model Context Protocol (MCP) defines the message format for communication between clients and servers, including tool discovery, invocation, and response handling
+(*) By standardizing this interaction, MCP eliminates the need for custom integrations between each AI model and each tool. This allows you to extend your AI assistant's capabilities by simply adding new MCP servers to your workspace. 
+
 
 Step1
 ![image](https://github.com/user-attachments/assets/4f8bdce0-4f3d-41f9-8527-577098ab9f63)
