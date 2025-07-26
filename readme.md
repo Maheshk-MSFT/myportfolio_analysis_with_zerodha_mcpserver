@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ffa5a161-6668-4368-b731-db14f6f4ed2d)![image](https://github.com/user-attachments/assets/4184fbee-eaca-4af3-9424-91d5d49d3390)
+
 
 **Model Context Protocol (MCP)** provides a standardized way for AI models to discover and interact with external tools, applications, and data sources. When you enter a chat prompt to a language model with agent mode in VS Code, the model can invoke various tools to perform tasks like file operations, accessing databases, or calling APIs in response to your request.
 
